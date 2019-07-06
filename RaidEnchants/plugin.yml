@@ -1,0 +1,7 @@
+main: me.undeadguppy.raidenchants.Main
+name: RaidEnchantments
+author: Undead_Guppy
+version: 1.0
+commands:
+  applyench:
+depend: [EnchantmentAPI]

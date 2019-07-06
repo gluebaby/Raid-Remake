@@ -1,0 +1,8 @@
+name: CombatTeams
+version: 1.0
+description: MCTeams Remade!
+authors: Undead_Guppy
+main: me.undeadguppy.combatteams.TeamsPlugin
+commands:
+  team:
+    aliases: [t, f, faction]

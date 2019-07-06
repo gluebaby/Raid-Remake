@@ -1,0 +1,11 @@
+main: me.undeadguppy.gCommon.Main
+name: gCommon
+author: Undead_Guppy
+version: 1.0
+commands:
+  admin:
+  bc:
+  help:
+  sc:
+  who:
+  

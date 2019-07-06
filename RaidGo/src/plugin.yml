@@ -1,0 +1,7 @@
+name: RaidGo
+main: raid.go.me.Main
+author: JosephGP
+version: 1.0
+commands:
+  go:
+  warp:

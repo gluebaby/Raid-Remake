@@ -1,0 +1,14 @@
+name: RaidEco
+main: me.undeadguppy.combateco.Main
+version: 1.2
+author: Undead_Guppy
+commands:
+    sell:
+    balance:
+      aliases: [bal]
+    deposit:
+    withdraw:
+    buy:
+    price:
+    pot:
+    soup:

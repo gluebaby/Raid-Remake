@@ -1,0 +1,8 @@
+name: RaidSpawn
+version: 1.0
+main: me.undeadguppy.combatspawn.SpawnProtection
+commands:
+  spawn:
+    description: Teleports the sender to spawn after x amount of seconds
+  setspawn:
+    description: Sets the server spawn.

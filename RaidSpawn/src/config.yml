@@ -1,0 +1,9 @@
+#Configure the x and y radius to be the spawn safezone.
+#Set to the same number for a square. Otherwise it is a rectangle.
+xRadius: 50
+zRadius: 50
+#How much time (in seconds) the teleport delay is.
+tpDelay: 5
+#spawn location:
+spawn:
+

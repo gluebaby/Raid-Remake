@@ -1,0 +1,8 @@
+name: RaidTrack
+main: mainTracking
+version: 0.1
+author: Undead_Guppy
+commands: 
+  track:
+    description: 
+    usage: 

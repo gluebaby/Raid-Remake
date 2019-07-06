@@ -1,0 +1,18 @@
+main: me.undeadguppy.raid.Main
+name: Raid
+version: 1.0
+commands:
+  admin:
+    aliases: [v, vanish, poof]
+  help:
+    aliases: [?, rules, rule, helps]
+  who:
+    aliases: [players, list]
+  bc:
+    aliases: [broadcast, cast, gcast]
+  sc:
+    aliases: [staffchat]
+  event:
+  host:
+  
+  

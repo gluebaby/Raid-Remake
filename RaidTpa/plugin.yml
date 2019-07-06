@@ -1,0 +1,30 @@
+name: RaidTpa
+version: b4
+main: me.undeadguppy.raidtpa.Main
+commands:
+  tpa:
+    description: Send a teleport request to a player on the server.
+    aliases: [tpr, tprequest]
+    permission: raid.tpa
+    permission-message: You do not have permission to use this command!
+  tpaccept:
+    description: Accept a teleport request.
+    aliases: accept
+    permission: raid.tpaccept
+    permission-message: You do not have permission to use this command!
+  tpdeny:
+    description: Deny a teleport request.
+    aliases: deny
+    permission: raid.tpdeny
+    permission-message: You do not have permission to use this command!
+
+permissions:
+  raid.tpa:
+    description: Allows you to use the /tpa command.
+    default: true
+  raid.tpaccept:
+    description: Allows you to use the /tpaccept command.
+    default: true
+  raid.tpdeny:
+    description: Allows you to use the /tpdeny command.
+    default: true
